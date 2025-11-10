@@ -42,7 +42,7 @@ I have chosen to duplicate the following layout from the Uber app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.ibb.co/VpPM2mpC/Zebber-Our-Fake.png' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://raw.githubusercontent.com/Solopidigitalmarketing/Unit3Project3AnimalApps/refs/heads/master/Zebber%20(Our%20Fake).png' />
 
 GIF created with **your chosen GIF tool**
 
