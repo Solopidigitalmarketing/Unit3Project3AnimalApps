@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Uber app:
 
-<img src='https://i.ibb.co/mr4n01sn/Uber-Real-Screenshot.webp' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://raw.githubusercontent.com/Solopidigitalmarketing/Unit3Project3AnimalApps/refs/heads/master/Uber%20(Real%20Screenshot).jpeg' />
 
 ## Video Demo
 
